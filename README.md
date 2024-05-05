@@ -11,3 +11,7 @@ The scripts are designed to run in a Jupyter Notebook environment using Python.
 - Pymatgen  
 - Pandas  
 - mp-api
+
+## Cite This Work
+If you use this code, please cite our work:  
+Machine Learning and High-Throughput Screening Aided Discovery of New Anti-Perovskite Solid Electrolyte Materials
