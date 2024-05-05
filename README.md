@@ -5,3 +5,9 @@ This project aims to identify new antiperovskite materials using a **high-throug
 The screening criteria include **tolerance factor**, **thermodynamic stability**, **electronic conductivity**, **electrochemical stability**, **mechanical stability**, and **ionic conductivity**.  
   
 The scripts are designed to run in a Jupyter Notebook environment using Python.
+
+## Dependancy
+Python3
+Pymatgen
+Pandas  
+mp-api
