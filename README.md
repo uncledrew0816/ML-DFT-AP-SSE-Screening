@@ -7,7 +7,7 @@ The screening criteria include **tolerance factor**, **thermodynamic stability**
 The scripts are designed to run in a Jupyter Notebook environment using Python.
 
 ## Dependancy
-Python3
-Pymatgen
-Pandas  
-mp-api
+- Python3  
+- Pymatgen  
+- Pandas  
+- mp-api
